@@ -17,7 +17,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shubham9199/)
 - 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I like to play Chess or go for a hike. 
+- 📚 &nbsp; When I am free, I like to play **Chess** or go for a **hike**. 
 
 </div>
 
