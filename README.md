@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=29&pause=1000&color=F7A749&background=000000FB&center=true&vCenter=true&width=1000&lines=Hey%F0%9F%91%8B!+Nice+to+see+you+here!!+My+name+is+Shubham!!!;Welcome+to+my+GitHub+page+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=23&pause=1000&color=00FFF0&background=EDE8D000&center=true&vCenter=true&width=1000&lines=Hey%F0%9F%91%8B!+My+name+is+Shubham!;Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
 
 <h4 align="left">I am currently working as an ML Engineer at PACCAR in Bellevue, Washington. I have 3+ years of experience in Software Engineering.</h5>
 
