@@ -7,7 +7,7 @@
 ###
 
 <div>
-  <img align="right" src="https://github.com/Shubham91999/Shubham91999/blob/d85b580da261f80c5c42ca8f4bfdf089264dd159/images/gh.gif" height="250">
+  <img align="right" src="https://github.com/Shubham91999/Shubham91999/blob/main/images/sde.gif" height="250">
   
 ### 🧐 More About Me:
 
