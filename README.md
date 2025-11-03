@@ -27,14 +27,14 @@
     <tr>
       <td width="50%" align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Shubham91999&show_icons=true&hide_rank=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Shubham91999&show_icons=true&hide_rank=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
           alt="GitHub stats graph"
           width="600"
           height="180" />
       </td>
       <td width="50%" align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham91999&layout=compact&theme=dark&hide_border=true&langs_count=6"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham91999&layout=compact&theme=rose_pine&hide_border=true&langs_count=6"
           alt="Top languages graph"
           width="600"
           height="180" />
