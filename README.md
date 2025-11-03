@@ -9,15 +9,15 @@
 <div>
   <img align="right" src="https://github.com/Shubham91999/Shubham91999/blob/main/images/sde.gif" height="250">
   
-### 🧐 More About Me:
+### → More About Me:
 
-- 🔭 &nbsp; Passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**
-- 🌱 &nbsp; I’m currently learning **TensorFlow**, **GCP**, **Vertex AI** 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham91999?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shubham9199/)
-- 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I like to play **Chess** or go for a **hike**. 
+- &nbsp; Passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- &nbsp; I’m currently learning **TensorFlow**, **GCP**, **Vertex AI** 
+- &nbsp; Most of my projects are available on [Github](https://github.com/Shubham91999?tab=repositories)
+- &nbsp; Ask me about anything tech related, I am happy to help
+- &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shubham9199/)
+- &nbsp; Checkout my [resume]()
+- &nbsp; When I am free, I like to play **Chess** or go for a **hike**. 
 </div>
 <br>
 
