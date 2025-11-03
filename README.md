@@ -122,6 +122,7 @@
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/Shubham91999/Shubham91999/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Shubham91999/Shubham91999/output/snake.svg" alt="Snake animation" /> 
+-->
 
 ###
